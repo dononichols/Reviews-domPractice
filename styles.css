@@ -149,6 +149,7 @@ main {
   min-height: 100vh;
   display: grid;
   place-items: center;
+  
 }
 
 /*
@@ -160,6 +161,7 @@ main {
   min-height: 100vh;
   display: grid;
   place-items: center;
+  
 }
 .title {
   text-align: center;
@@ -175,6 +177,7 @@ main {
 .container {
   width: 80vw;
   max-width: var(--fixed-width);
+  
 }
 .review {
   background: var(--clr-white);
